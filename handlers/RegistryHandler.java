@@ -2,6 +2,7 @@ package TheNexus.handlers;
 
 import TheNexus.Init.ItemInit;
 import TheNexus.interfaces.IHasModel;
+import TheNexus.world.WorldTypeCopper;
 import net.minecraft.item.Item;
 import net.minecraft.world.WorldType;
 import net.minecraftforge.client.event.ModelRegistryEvent;
